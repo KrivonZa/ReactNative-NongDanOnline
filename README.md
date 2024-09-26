@@ -1,5 +1,6 @@
 # Set up
 - git clone https://github.com/KrivonZa/ReactNative-NongDanOnline.git
+- Checkout on your branch (for editing)
 - Turn on Terminal at the bottom of the project or using CMD, than enter command 'cd yourFilePath'
 - Enter command: npm i or npm install
 
