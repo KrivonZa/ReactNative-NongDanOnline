@@ -17,3 +17,8 @@
 # Available settings
 - React Navigation
 - Axios
+
+# Rules
+- Work only with your branch (yourNameBranch)
+- Only open Pull Request to DEV branch, DO NOT open on Main branch
+- All operations performed on DEV branch must have the leader's permission.
